@@ -23,3 +23,7 @@ git switch master
 git switch -c dark-mode
 git checkout orange-mode
 
+
+ssh key : SHA256:rxZnNRZOpHX3x2CbsdkXuPrKv+E9mtWUK8sqel88k4k 
+
+git remote -v
