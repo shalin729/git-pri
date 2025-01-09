@@ -16,3 +16,10 @@ git commit -m "your commit message"
 
 git log
 
+git branch
+git branch bug-fix
+git switch bug-fix
+git switch master
+git switch -c dark-mode
+git checkout orange-mode
+
