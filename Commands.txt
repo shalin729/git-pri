@@ -1,0 +1,18 @@
+git --virsion
+
+cd folderName
+
+pwd
+
+git config --global user.email "your-email@.com"
+git config --global user.name "your Name"
+
+git config --list
+
+git status
+
+git add .
+git commit -m "your commit message"
+
+git log
+
